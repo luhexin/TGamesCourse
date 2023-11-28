@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{40E5E754-4DE2-A67D-16F6-9B991C6FA27E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ActionRPG",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
