@@ -50,6 +50,7 @@ protected:
 	UPROPERTY(VisibleAnywhere)
 	USInteractionComponent* InteractionComp;//ActorComponent类，实现交互
 	
+	UFUNCTION(BlueprintCallable)
 	void PrimaryAttack();
 	void PrimaryAttack_TimeElapsed();
 
