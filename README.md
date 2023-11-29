@@ -18,3 +18,6 @@ SaveGame保存于本地，得分进入榜单时可编辑自己在榜单上显示
 > 角色模型与动画资源: 
 > 1. 虚幻商城: "Paragon: Gideon"
 > 2. Mixamo: Derrick
+
+## 玩家角色方面
+![动态图](gif\AttackZom.gif)
