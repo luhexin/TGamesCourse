@@ -36,12 +36,12 @@ SaveGame保存于本地，得分进入榜单时可编辑自己在榜单上显示
 
 ## 玩家角色方面
 - 实现了基本的移动、跳跃、镜头转动、基础攻击、普通技能，瞬移技能、物品交互等功能
-- `基础攻击`演示
+- `基础攻击`演示  
 ![动态图](https://github.com/luhexin/TGamesCourse/blob/main/ReadmeAsset/gif/PrimaryAttack.gif)
-- 攻击到敌人会令敌人停止动作5s
+- 攻击到敌人会令敌人停止动作5s  
 ![动态图](https://github.com/luhexin/TGamesCourse/blob/main/ReadmeAsset/gif/AttackZom.gif)
-- `普通技能`: 消耗20点蓝条，使炮台子弹以及敌人动作停止5s，左上方白条同步倒计时
-![动态图](https://github.com/luhexin/TGamesCourse/blob/main/ReadmeAsset/gif/Canon.gif)
+- `普通技能`: 消耗20点蓝条，使炮台子弹以及敌人动作停止5s，左上方白条同步倒计时  
+![动态图](https://github.com/luhexin/TGamesCourse/blob/main/ReadmeAsset/gif/Canon.gif)  
 - `瞬移技能`: 前方投掷一个粒子，当粒子接触到地面或墙体时会爆炸，人物传送到爆炸点
 ![动态图](https://github.com/luhexin/TGamesCourse/blob/main/ReadmeAsset/gif/Dash.gif)
 
@@ -51,9 +51,9 @@ SaveGame保存于本地，得分进入榜单时可编辑自己在榜单上显示
     - 没有发现玩家时，会在附近的点随机巡逻
     - 发现玩家时，会追击玩家   
 
-![动态图](https://github.com/luhexin/TGamesCourse/blob/main/ReadmeAsset/gif/FollowRoam.gif)
-- 进入敌人的攻击范围, 敌人攻击单次造成10点伤害
-![攻击玩家](https://github.com/luhexin/TGamesCourse/blob/main/ReadmeAsset/gif/ZomAttack.gif)
+![动态图](https://github.com/luhexin/TGamesCourse/blob/main/ReadmeAsset/gif/FollowRoam.gif)  
+- 进入敌人的攻击范围, 敌人攻击单次造成10点伤害   
+![攻击玩家](https://github.com/luhexin/TGamesCourse/blob/main/ReadmeAsset/gif/zomAttack.gif)  
 
 
 ## 其他
