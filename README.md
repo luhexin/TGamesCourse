@@ -1,5 +1,5 @@
 # TGamesCourse
-感谢北极光工作室群、光子工作室、魔方工作室群、天美工作室群各位前辈的讲解。
+官网https://gameinstitute.qq.com/open-courses-2023/program
 
 ---
 ## 《UE入门》作业
